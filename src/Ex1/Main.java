@@ -16,7 +16,7 @@ public class Main {
         Set<String> paroleDoppieSet = new HashSet<>();
         for (int i = 0; i < numeroParole; i++) {
             System.out.println("INSERISCI LA PAROLA DESIDERATA");
-            String parola = scanner.next();
+            String parola = scanner.nextLine();
 
         if (!paroleSet.add(parola)) {
             paroleDoppieSet.add(parola);

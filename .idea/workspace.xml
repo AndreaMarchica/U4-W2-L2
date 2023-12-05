@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="731a42f1-459d-4565-805e-c64ef51ce2ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex2/Main2.java" afterDir="false" />
+    <list default="true" id="731a42f1-459d-4565-805e-c64ef51ce2ba" name="Changes" comment="finish ex 1 and 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex2/Main2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +85,20 @@
       <option name="presentableId" value="Default" />
       <updated>1701783071057</updated>
     </task>
+    <task id="LOCAL-00001" summary="finish ex 1 and 2">
+      <option name="closed" value="true" />
+      <created>1701792017225</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701792017225</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish ex 1 and 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish ex 1 and 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
